@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&family=Sniglet&family=Snippet&family=Special+Elite&display=swap');
+
+.active
+{
+    background: linear-gradient(180deg, #FFE794 34.66%, rgba(255, 137, 26, 0.781) 77.33%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-emphasis-color: transparent;
+}
+
+.navtext
+{
+    font-family: 'Sniglet', cursive;
+    font-style: normal;
+    font-size: 48px;
+    margin-right: 10px;
+}
+
+.barra_nav
+{
+    position: static;
+    background: conic-gradient(from 147.94deg at -4.15% 59.43%, rgba(94, 23, 235, 0.847279) 0deg, rgba(94, 23, 235, 0.7) 129.37deg, #5E17EB 268.41deg, rgba(56, 18, 130, 0.721426) 310.01deg, rgba(94, 23, 235, 0.847279) 360deg);
+    width: 1366px;
+    height: 110px;
+    left: 0px;
+    top: 0px;
+}
+
+.imglan img
+{
+    position:static;
+    left: 0px;
+    width: 700px;
+}
+
+.logo
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.quadradão
+{
+    background: conic-gradient(from 147.94deg at -4.15% 59.43%, rgba(94, 23, 235, 0.7) -29.93deg, #5E17EB 271.87deg, rgba(94, 23, 235, 0.7) 329.93deg, rgba(56, 18, 130, 0.721426) 329.96deg, rgba(94, 23, 235, 0.7) 330deg, rgba(94, 23, 235, 0.7) 330.04deg, rgba(94, 23, 235, 0.7) 330.07deg, #5E17EB 631.87deg);
+    position: fixed;
+    width: 1366px;
+    height: 1800px;
+    left: 0px;
+    top: 110px;
+}
+
+.historia img
+{
+    position:  relative;
+    right: -30%;
+}
+
+.lore
+{
+    position: relative;
+    background: #2F0F0F;
+    border: 5px solid #0500FF;
+}
+
+.lore p 
+{
+    font-family: 'Snippet', sans-serif;
+    font-style: normal;
+    width: auto;
+    height: auto;
+    left: auto;
+    top: 952px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 74px;
+    justify-content: center;
+    color: #FFFFFF;
+}
+
+.carousel-item
+{
+    height: 550px;
+    width: 1400px;
+}
+
+.letreiro
+{
+    font-size: 76px;
+}
+
+.info
+{
+    background: conic-gradient(from 147.94deg at -4.15% 59.43%, #5E17EB -10.62deg, rgba(94, 23, 235, 0.7) 221.91deg, rgba(56, 18, 130, 0.721426) 283.43deg, #5E17EB 349.38deg, rgba(94, 23, 235, 0.7) 581.91deg);;
+}
+
+.boa
+{
+    font-family: 'Special Elite', cursive;
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+
+.aberto
+{
+    font-family: "Snippet", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 55px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
